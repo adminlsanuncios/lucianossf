@@ -74,9 +74,11 @@
 |:--|:--|
 | [Curso DevOps Automation](https://github.com/lucianossf/curso-devops-automation) | Repositório de estudos e práticas relacionadas a DevOps e automação de processos. |
 
-## ✦ Atividade no GitHub
+## ✦ Projeto em destaque
 
-### LS Anúncios · frontend e backend
+### LS Anúncios · plataforma de classificados full-stack
+
+<p>Plataforma de classificados online em desenvolvimento, com frontend, backend, anúncios, autenticação e área administrativa.</p>
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -88,16 +90,18 @@
   <img src="https://img.shields.io/badge/TypeORM-FE0803?style=flat-square&logo=typeorm&logoColor=white" alt="TypeORM" />
 </p>
 
-<p><sub>O LS Anúncios usa TypeScript, CSS e JavaScript na aplicação, com backend em Node.js/NestJS, PostgreSQL e TypeORM. Os cartões de linguagens abaixo refletem os repositórios públicos.</sub></p>
+| **Camada** | **Escopo** |
+|:--|:--|
+| **Produto** | Classificados online |
+| **Aplicação** | Frontend em TypeScript, JavaScript e CSS |
+| **Backend e dados** | Node.js, NestJS, PostgreSQL e TypeORM |
+| **Recursos** | Anúncios, autenticação e área administrativa |
 
+<p align="center"><a href="https://ls-anuncios.vercel.app/">Acessar o site →</a> &nbsp;·&nbsp; <a href="https://github.com/lucianossf?tab=repositories">Explorar repositórios →</a></p>
 
+## ✦ Atividade no GitHub
 
-<p align="center">
-  <a href="https://github.com/lucianossf">Ver atividade e estatísticas no GitHub →</a>
-  <a href="https://github.com/lucianossf?tab=repositories">Ver linguagens dos repositórios públicos →</a>
-</p>
-
-<p align="center"><sub>As contribuições são exibidas pelo calendário oficial do GitHub. Consulte os repositórios para ver as linguagens de cada projeto.</sub></p>
+<p align="center"><a href="https://github.com/lucianossf">Ver perfil e calendário de contribuições →</a> &nbsp;·&nbsp; <a href="https://github.com/lucianossf?tab=repositories">Ver linguagens e projetos →</a></p>
 
 ---
 
