@@ -93,11 +93,11 @@
 
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lucianossf&locale=pt-br&show_icons=true&hide_border=true&bg_color=0B1020&title_color=67E8F9&text_color=CBD5E1&icon_color=38BDF8&rank_icon=github" alt="Resumo das estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianossf&locale=pt-br&layout=compact&hide_border=true&bg_color=0B1020&title_color=67E8F9&text_color=CBD5E1" alt="Linguagens nos repositórios públicos" />
+  <a href="https://github.com/lucianossf">Ver atividade e estatísticas no GitHub →</a>
+  <a href="https://github.com/lucianossf?tab=repositories">Ver linguagens dos repositórios públicos →</a>
 </p>
 
-<p align="center"><sub>O calendário de contribuições do GitHub continua disponível no perfil. Os cartões acima resumem estatísticas públicas e linguagens dos repositórios.</sub></p>
+<p align="center"><sub>As contribuições são exibidas pelo calendário oficial do GitHub. Consulte os repositórios para ver as linguagens de cada projeto.</sub></p>
 
 ---
 
