@@ -66,7 +66,6 @@
 | Projeto | Escopo |
 |:--|:--|
 | [AutoHub ERP — apresentação do projeto](https://www.linkedin.com/posts/lucianosf_desenvolvimentodesoftware-nestjs-reactjs-activity-7471199990636351488-CO0M) | Sistema de gestão de veículos desenvolvido do zero para um cliente, com estoque, geração de comprovantes em PDF, painel financeiro e arquitetura multi-tenant. |
-| [LS Anúncios — acessar o site](https://ls-anuncios.vercel.app/) | Plataforma de classificados online em desenvolvimento, com frontend, backend, anúncios, autenticação e área administrativa. |
 
 ### DevOps e aprendizado contínuo
 
@@ -78,7 +77,7 @@
 
 ### LS Anúncios · plataforma de classificados full-stack
 
-<p>Plataforma de classificados online em desenvolvimento, com frontend, backend, anúncios, autenticação e área administrativa.</p>
+<p>Plataforma de classificados online em desenvolvimento, com frontend e backend, anúncios, autenticação e área administrativa.</p>
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
